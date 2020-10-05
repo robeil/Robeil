@@ -1,6 +1,6 @@
 ### Robeil Aregawi 👋
 
-## Aout Me
+## About Me
 
 A Full Stack Full stack web Developer, Passionate, Self-motivated and Proficient in JavaScript technologies. Practical Experience using technologies tools like , JavaScript, NodeJs, ExpressJs, HTML5, CSS, Bootstrap, MongoDB, MySQL, Git and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
 
@@ -19,6 +19,10 @@ Design Patterns: Rest, MVC, and operators, Module, Prototype
 
 [Portfolio Deployed link](https://robeil.github.io/portfolio-/)
 
+
 Contact: 206-602-5164 |
-Email: silukeen1@gmail.com || robeilaregawi1@gmail.com
+
+Email: silukeen1@gmail.com or
+
+robeilaregawi1@gmail.com
 
