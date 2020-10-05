@@ -1,6 +1,6 @@
-### Robeil Aregawi 👋
+## Robeil Aregawi 👋
 
-## About Me
+### About Me
 
 A Full Stack Full stack web Developer, Passionate, Self-motivated and Proficient in JavaScript technologies. Practical Experience using technologies tools like , JavaScript, NodeJs, ExpressJs, HTML5, CSS, Bootstrap, MongoDB, MySQL, Git and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
 
