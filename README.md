@@ -17,7 +17,7 @@ Platforms: Cloud Deployment
 Design Patterns: Rest, MVC, and operators, Module, Prototype
 
 
-[Portfolio Deployed link](https://robeil.github.io/javaScript-quiz/)
+[Portfolio Deployed link](https://robeil.github.io/portfolio-/)
 
 Contact: 206-602-5164 |
 Email: silukeen1@gmail.com || robeilaregawi1@gmail.com
