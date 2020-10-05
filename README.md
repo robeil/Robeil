@@ -19,6 +19,8 @@ Design Patterns: Rest, MVC, and operators, Module, Prototype
 
 [Portfolio Deployed link](https://robeil.github.io/portfolio-/)
 
+[Linkedln](https://www.linkedin.com/in/robeil-aregawi-002aa91a6)
+
 
 Contact: 206-602-5164 
 
