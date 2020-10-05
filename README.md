@@ -22,7 +22,7 @@ Design Patterns: Rest, MVC, and operators, Module, Prototype
 
 Contact: 206-602-5164 |
 
-Email: silukeen1@gmail.com or
-
-robeilaregawi1@gmail.com
+Email: silukeen1@gmail.com 
+or
+Email: robeilaregawi1@gmail.com
 
