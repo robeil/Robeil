@@ -16,9 +16,9 @@ Tools: Visual Studio Code, Collaborative Git
 Platforms: Cloud Deployment
 Design Patterns: Rest, MVC, and operators, Module, Prototype
 
-[Portfolio Deployed link](https://robeil.github.io/portfolio-/)
+[Portfolio link](https://robeil.github.io/portfolio-/)
 
-[Linkedln](https://www.linkedin.com/in/robeil-aregawi-002aa91a6)
+[Linkedln link](https://www.linkedin.com/in/robeil-aregawi-002aa91a6)
 
 Contact: 206-602-5164 
 Email: silukeen1@gmail.com 
