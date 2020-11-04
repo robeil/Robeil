@@ -2,7 +2,7 @@
 
 ### About Me
 
-A Full Stack Full stack web Developer, Passionate, Self-motivated and Proficient in JavaScript technologies. Practical Experience using technologies tools like , JavaScript & jQuery, NodeJs, ExpressJs, AJAX & API, Handlebars, HTML5, CSS, Bootstrap, React, MongoDB, Mongoose & IndexedDB, MySQL/Sequelize, Git, Webpack, Heroku and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
+I am Full Stack Full stack web Developer, Passionate, Self-motivated and Proficient in JavaScript technologies. Practical Experience using technologies tools like , JavaScript & jQuery, NodeJs, ExpressJs, AJAX & API, Handlebars, HTML5, CSS, Bootstrap, React, MongoDB, Mongoose & IndexedDB, MySQL/Sequelize, Git, Webpack, Heroku and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
 
 Software and Web Application Development • Application Deployment / Maintenance • Full-Stack web Development • Code Review & Optimization  •Object-Oriented Programming •Database Design
 
