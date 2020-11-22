@@ -16,8 +16,6 @@ Tools: Visual Studio Code, Collaborative Git
 Platforms: Cloud Deployment
 Design Patterns: Rest, MVC, and operators, Module, Prototype
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robeil&layout=compact)](https://github.com/Robeil/github-readme-stats)
 
 ### GitHub Stats :
