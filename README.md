@@ -16,6 +16,40 @@ Tools: Visual Studio Code, Collaborative Git
 Platforms: Cloud Deployment
 Design Patterns: Rest, MVC, and operators, Module, Prototype
 
+## Computer Science applied to JavaScript 
+  *  Algorithms(Searches ,Sorts);
+  *  Efficiency
+  *  Time Complexity
+  *  Big O Notation
+  *  Data Structures
+## Browser Based Technologies
+  * HTML
+  * JavaScript
+  * jQuery
+  * Responsive Design
+  * Bootstrap
+  * Handlebars
+  * Local Storage, Session Storage, IndexedDB
+  * React.js
+## Deployment/Command-Line Fundamentals
+  * Heroku
+  * Git
+## API Interaction
+* API
+* JSON
+* AJAX
+## Databases
+  * MySQL
+  * MongoDB
+## Server Side Development
+  * Node.js
+  * Express
+  * User Authentication
+  * Progressive Web Applications(PWAs)
+  * MERN Stack(MOngoDb,Express.js,React.js,Node.js)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robeil&layout=compact)](https://github.com/Robeil/github-readme-stats)
 
 ### GitHub Stats :
