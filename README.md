@@ -31,6 +31,7 @@ Design Patterns: Rest, MVC, and operators, Module, Prototype
   * Handlebars
   * Local Storage, Session Storage, IndexedDB
   * React.js
+  * Java
 ## Deployment/Command-Line Fundamentals
   * Heroku
   * Git
