@@ -6,13 +6,13 @@ I am Full Stack Full stack web Developer, Passionate, Self-motivated and Profici
 
 Software and Web Application Development • Application Deployment / Maintenance • Full-Stack web Development • Code Review & Optimization  •Object-Oriented Programming •Database Design
 
-Languages: JavaScript ES6, Node.js, React
+Languages: JavaScript ES6, Node.js, React and Java
 Web: HTML5, CSS, HTTP, Bootstrap, JSON, EJS, HTTP Requests, API 
 Frameworks: Expess.js, Mongoose
 Web Services: RESTful, JSON
 Web/App Server: MS SQL
 Databases: MongoDB & IndexedDB
-Tools: Visual Studio Code, Collaborative Git
+Tools: Visual Studio Code, Collaborative Git, Intellij and Eclipse
 Platforms: Cloud Deployment
 Design Patterns: Rest, MVC, and operators, Module, Prototype
 
