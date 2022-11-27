@@ -8,7 +8,7 @@
 
   <a href="https://api.daily.dev/get?r=Robeil" target="_blank">
     <img
-      width="256"
+      width="356"
       align="right"
       src="https://api.daily.dev/devcards/a9c89c05e1a64bf5a232ff9290180107.png?r=v3e" width="400" alt="Robeil Aregawi's Dev Card"
     />
