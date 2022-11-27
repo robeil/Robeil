@@ -1,3 +1,15 @@
+permissions:
+  contents: write
+  
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
@@ -12,10 +24,4 @@ jobs:
           commit_filename: devcard.png
           commit_message: "chore: update ${filename}"
 
-version: 2
-updates:
-  # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "daily"
+
