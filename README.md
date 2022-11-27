@@ -17,6 +17,19 @@
 
 ## I am Robeil Aregawi
 
+* *Languages:* Java, JavaScript ES6, Node.js Web: HTML5, CSS, HTTP, Bootstrap, JSON, HTTP Requests, fetch 
+* *Frameworks:* Spring Boot, Expess.js, React
+* *Microservice:* ------
+* *Web Services:* RESTful, RestClient, RestTmplate,  
+* *Databases:* MongoDB JSON Web/App Server: MS SQL 
+* *Tools:* Intelij, Eclipse, Visual Studio Code
+* *Collaborative Git Platforms:** ---------
+* *Design Patterns:* Rest, MVC,observables and operators, Singleton, Observer, Façade, Factory, Decorator, Proxy, Strategy
+
+OOP 
+Functional Programming
+
+
 
 ![Robeil's github stats](https://github-readme-stats.vercel.app/api?username=Robeil&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=49198a&text_color=e1d8ed&hide=issues)
 
