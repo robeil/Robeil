@@ -34,7 +34,7 @@
 Functional Programming
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css,react,redux,mysql,postgres,mongodb,bash,git,github,heroku,docker,eclipse,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,nodejs,jquery,html,css,bootstrap,angular,react,mysql,postgres,mongodb,heroku,docker,idea,vscode,eclipse,bash,powershell,git,github&perline=10)](https://skillicons.dev)
 
 ![Robeil's github stats](https://github-readme-stats.vercel.app/api?username=Robeil&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=49198a&text_color=e1d8ed&hide=issues)
 
