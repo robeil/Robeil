@@ -18,13 +18,13 @@
 ## I am Robeil Aregawi
 [Personal Portfolio](https://www.robbeil.tech/)
 * *Languages:* 
-*  JavaScript ES6, Node.js Web: HTML5, CSS, HTTP, Bootstrap, JSON, jQuery, HTTP Requests, fetch, Ajax and promises
-*  Java: RESTfull and soap
+*  JavaScript ES6, Node.js Web: HTML5, CSS, HTTP, Bootstrap, JSON, HTTP Requests, fetch, Ajax and promises
+*  Java: RESTfull
 * *Frameworks:* Spring Boot, Spring Security, Expess.js, React
 * Enterprise Architecture : ORM, DI, AOP
-* *Microservice:* design flexible, testable, resilient, Event Driven Archtecture, Component Based Architecture, Stream Based Architecture, Reactive Programming
-* *Web Services:* RESTful, SOAP, Messaging( Activmq), Kafka 
-* *Databases:* SQL, NOSQL, Relational DB, MongoDB, Web/App Server: MS SQL 
+* *Microservice:* design flexible, testable, resilient, Event Driven Archtecture, Component Based Architecture, Stream Based Architecture
+* *Web Services:* RESTful, Messaging( Activmq), Kafka 
+* *Databases:* SQL, NOSQL, Relational DB, MongoDB
 * *Tools:* Intelij, Eclipse, Visual Studio Code
 * *Collaborative Git Platforms:** Git, GitHub
 * *Productivity: * Agile, Scrum
@@ -34,7 +34,7 @@
 Functional Programming
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,nodejs,jquery,html,css,bootstrap,angular,react,mysql,postgres,mongodb,aws,heroku,docker,idea,vscode,eclipse,bash,powershell,git,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,nodejs,html,css,bootstrap,react,mysql,postgres,mongodb,aws,heroku,docker,idea,vscode,eclipse,bash,git,github&perline=10)](https://skillicons.dev)
 
 ![Robeil's github stats](https://github-readme-stats.vercel.app/api?username=Robeil&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=49198a&text_color=e1d8ed&hide=issues)
 
